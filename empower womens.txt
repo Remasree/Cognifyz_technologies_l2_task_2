@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="SH-STYLE.CSS">
+  <title>LiberHerLife</title>
+  <style>
+    /* Your additional CSS styles */
+    /* ... */
+  </style>
+</head>
+<body>
+  <header class="navbar">
+    <h1 class="logo">LiberHerLife</h1>
+    <input type="checkbox" id="menu-toggle">
+    <nav>
+      <ul class="menu">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <label for="menu-toggle" class="menu-icon">&#9776;</label>
+    </nav>
+  </header>
+  <section class="hero">
+    <h2>Empowering Women for Independent Living</h2>
+    <p>Join us in embracing your journey to liberation.</p>
+    <a href="#" class="cta-button">Get Started</a>
+  </section>
+  <section class="features">
+    <!-- ... -->
+  </section>
+  <footer>
+    <p>&copy; 2023 LiberHerLife. All rights reserved.</p>
+  </footer>
+</body>
+</html>
